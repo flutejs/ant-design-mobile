@@ -1,3 +1,4 @@
+/* tslint:disable:jsx-no-multiline-js */
 import React from 'react';
 import { View, Text } from 'react-native';
 import RNAccordion from 'react-native-collapsible/Accordion';

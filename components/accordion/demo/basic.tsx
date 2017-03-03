@@ -1,5 +1,6 @@
+/* tslint:disable:no-console */
 import React from 'react';
-import { View, Text, Platform } from 'react-native';
+import { View } from 'react-native';
 import { Accordion, List } from 'antd-mobile';
 
 export default class AccordionExmple extends React.Component<any, any> {

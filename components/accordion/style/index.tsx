@@ -1,5 +1,5 @@
 import variables from '../../style/themes/default';
-import { StyleSheet, ViewStyle } from 'react-native';
+import { StyleSheet } from 'react-native';
 
 export default StyleSheet.create({
   container: {
@@ -10,7 +10,7 @@ export default StyleSheet.create({
     flexDirection: 'row',
     alignItems: 'center',
     paddingLeft: variables.h_spacing_lg,
-    paddingRight: 2*variables.h_spacing_lg,
+    paddingRight: 2 * variables.h_spacing_lg,
     borderBottomWidth: StyleSheet.hairlineWidth,
     borderBottomColor: variables.border_color_base,
   },
