@@ -33,7 +33,6 @@ title: Change Log
 - 修复 ActionSheet(web & RN) maskClosable 不支持 callback index 的问题；([#908](https://github.com/ant-design/ant-design-mobile/issues/908))
 - 修复 RN Button 回调参数错误，restProps 覆盖问题；
 
-
 ## Improve
 - Icon 增加 try catch，避免控制台报错 ([#895](https://github.com/ant-design/ant-design-mobile/issues/895))
 - 官网重构支持国际化，自动检测浏览器语言并支持中/英文切换
